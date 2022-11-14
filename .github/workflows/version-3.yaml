@@ -1,7 +1,6 @@
 name: Version 2
 
-on:
-  push: ['*']
+on: push
 
 jobs:
   quality:

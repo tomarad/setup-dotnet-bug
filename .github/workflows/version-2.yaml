@@ -1,7 +1,6 @@
 name: Development
 
-on:
-  push: ['*']
+on: push
 
 jobs:
   quality:
